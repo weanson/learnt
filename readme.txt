@@ -9,3 +9,5 @@ Git tracks changes of files.
 Add username and email for Git.
 
 Creating a new branch is quick and simple.
+
+Add merge.
